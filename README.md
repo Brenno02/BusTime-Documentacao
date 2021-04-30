@@ -1,2 +1,2 @@
-# BusTime-Documenta-o
+#BusTime-Documentacao
 Projeto Final: BusTime (Elaboração de Documentação)
